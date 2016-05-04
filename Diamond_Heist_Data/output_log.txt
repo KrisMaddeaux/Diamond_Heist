@@ -1,0 +1,355 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 730M     (ID=0x1290)
+    Vendor:   NVIDIA
+    VRAM:     975 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\kprmm_000\Desktop\Diamond_Heist\Diamond_Heist_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\kprmm_000\Desktop\Diamond_Heist\Diamond_Heist_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\kprmm_000\Desktop\Diamond_Heist\Diamond_Heist_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\kprmm_000\Desktop\Diamond_Heist\Diamond_Heist_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\kprmm_000\Desktop\Diamond_Heist\Diamond_Heist_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\kprmm_000\Desktop\Diamond_Heist\Diamond_Heist_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\kprmm_000\Desktop\Diamond_Heist\Diamond_Heist_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\kprmm_000\Desktop\Diamond_Heist\Diamond_Heist_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\kprmm_000\Desktop\Diamond_Heist\Diamond_Heist_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\kprmm_000\Desktop\Diamond_Heist\Diamond_Heist_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
+Platform assembly: C:\Users\kprmm_000\Desktop\Diamond_Heist\Diamond_Heist_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\kprmm_000\Desktop\Diamond_Heist\Diamond_Heist_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.516849 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1bfc -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.408275 ms
+Failed opening GI file: '44/44ecd4fb6b03ff037eadcec70ff9f579.iws.sse'.
+
+ 
+(Filename:  Line: 176)
+
+Failed opening GI file: '44/44ecd4fb6b03ff037eadcec70ff9f579.rsc.sse'.
+
+ 
+(Filename:  Line: 176)
+
+Failed loading system data for hash: 0x44ecd4fb6b03ff037eadcec70ff9f579
+ 
+(Filename:  Line: 1543)
+
+Failed opening GI file: 'f1/f1d9e34f0b26ef13e1160df53594b10d.iws.sse'.
+
+ 
+(Filename:  Line: 176)
+
+Failed opening GI file: 'f1/f1d9e34f0b26ef13e1160df53594b10d.rsc.sse'.
+
+ 
+(Filename:  Line: 176)
+
+Failed loading system data for hash: 0xf1d9e34f0b26ef13e1160df53594b10d
+ 
+(Filename:  Line: 1543)
+
+Failed opening GI file: '1e/1e9520b1aa3724d7e6a9cf0eb9522e9a.iws.sse'.
+
+ 
+(Filename:  Line: 176)
+
+Failed opening GI file: '1e/1e9520b1aa3724d7e6a9cf0eb9522e9a.rsc.sse'.
+
+ 
+(Filename:  Line: 176)
+
+Failed loading system data for hash: 0x1e9520b1aa3724d7e6a9cf0eb9522e9a
+ 
+(Filename:  Line: 1543)
+
+Failed opening GI file: 'b0/b0cff6cb1bc160dcc64875e058f402ea.iws.sse'.
+
+ 
+(Filename:  Line: 176)
+
+Failed opening GI file: 'b0/b0cff6cb1bc160dcc64875e058f402ea.rsc.sse'.
+
+ 
+(Filename:  Line: 176)
+
+Failed loading system data for hash: 0xb0cff6cb1bc160dcc64875e058f402ea
+ 
+(Filename:  Line: 1543)
+
+Error adding system: Data not available.
+ 
+(Filename:  Line: 1203)
+
+Error adding system: Data not available.
+ 
+(Filename:  Line: 1203)
+
+Error adding system: Data not available.
+ 
+(Filename:  Line: 1203)
+
+Error adding system: Data not available.
+ 
+(Filename:  Line: 1203)
+
+GI output for inputsystem: a9df75951bad24f4fddaa54e0826feb9 (1e9520b1aa3724d7e6a9cf0eb9522e9a) is missing.
+ 
+(Filename:  Line: 1510)
+
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1066.
+Total: 0.351164 ms (FindLiveObjects: 0.039588 ms CreateObjectMapping: 0.031524 ms MarkObjects: 0.267955 ms  DeleteObjects: 0.011729 ms)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 1b04 -> priority: 1 
+  Thread -> id: 1dd8 -> priority: 1 
+  Thread -> id: 20f4 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.754380 ms
+Failed opening GI file: '51/511857d4601db82a70903aa9f3e7a0b2.iws.sse'.
+
+ 
+(Filename:  Line: 176)
+
+Failed opening GI file: '51/511857d4601db82a70903aa9f3e7a0b2.rsc.sse'.
+
+ 
+(Filename:  Line: 176)
+
+Failed loading system data for hash: 0x511857d4601db82a70903aa9f3e7a0b2
+ 
+(Filename:  Line: 1543)
+
+Failed opening GI file: '4e/4e93a22fcea83e39b93956fb1c64a582.iws.sse'.
+
+ 
+(Filename:  Line: 176)
+
+Failed opening GI file: '4e/4e93a22fcea83e39b93956fb1c64a582.rsc.sse'.
+
+ 
+(Filename:  Line: 176)
+
+Failed loading system data for hash: 0x4e93a22fcea83e39b93956fb1c64a582
+ 
+(Filename:  Line: 1543)
+
+Failed opening GI file: 'd7/d74cf7f809398375b2f2ab8f452a8f65.iws.sse'.
+
+ 
+(Filename:  Line: 176)
+
+Failed opening GI file: 'd7/d74cf7f809398375b2f2ab8f452a8f65.rsc.sse'.
+
+ 
+(Filename:  Line: 176)
+
+Failed loading system data for hash: 0xd74cf7f809398375b2f2ab8f452a8f65
+ 
+(Filename:  Line: 1543)
+
+Failed opening GI file: '01/0133890c5c73e1b07077e902391d390f.iws.sse'.
+
+ 
+(Filename:  Line: 176)
+
+Failed opening GI file: '01/0133890c5c73e1b07077e902391d390f.rsc.sse'.
+
+ 
+(Filename:  Line: 176)
+
+Failed loading system data for hash: 0x0133890c5c73e1b07077e902391d390f
+ 
+(Filename:  Line: 1543)
+
+Failed opening GI file: '78/78a32fadb9d231b675a81daacca03649.iws.sse'.
+
+ 
+(Filename:  Line: 176)
+
+Failed opening GI file: '78/78a32fadb9d231b675a81daacca03649.rsc.sse'.
+
+ 
+(Filename:  Line: 176)
+
+Failed loading system data for hash: 0x78a32fadb9d231b675a81daacca03649
+ 
+(Filename:  Line: 1543)
+
+Failed opening GI file: '87/874ff32552aacdf2262544f774f0bda7.iws.sse'.
+
+ 
+(Filename:  Line: 176)
+
+Failed opening GI file: '87/874ff32552aacdf2262544f774f0bda7.rsc.sse'.
+
+ 
+(Filename:  Line: 176)
+
+Failed loading system data for hash: 0x874ff32552aacdf2262544f774f0bda7
+ 
+(Filename:  Line: 1543)
+
+Error adding system: Data not available.
+ 
+(Filename:  Line: 1203)
+
+Error adding system: Data not available.
+ 
+(Filename:  Line: 1203)
+
+Error adding system: Data not available.
+ 
+(Filename:  Line: 1203)
+
+Error adding system: Data not available.
+ 
+(Filename:  Line: 1203)
+
+Error adding system: Data not available.
+ 
+(Filename:  Line: 1203)
+
+Error adding system: Data not available.
+ 
+(Filename:  Line: 1203)
+
+GI output for inputsystem: 25366bef3f3bc627046c8ab39957db23 (78a32fadb9d231b675a81daacca03649) is missing.
+ 
+(Filename:  Line: 1510)
+
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1630.
+Total: 0.512450 ms (FindLiveObjects: 0.084308 ms CreateObjectMapping: 0.028958 ms MarkObjects: 0.376090 ms  DeleteObjects: 0.021993 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.069255 ms
+Failed opening GI file: 'c4/c4b92dc4a278f7119cd67e3f48614d8e.iws.sse'.
+
+ 
+(Filename:  Line: 176)
+
+Failed opening GI file: 'c4/c4b92dc4a278f7119cd67e3f48614d8e.rsc.sse'.
+
+ 
+(Filename:  Line: 176)
+
+Failed loading system data for hash: 0xc4b92dc4a278f7119cd67e3f48614d8e
+ 
+(Filename:  Line: 1543)
+
+Failed opening GI file: 'e8/e8265c437596571404d6129a99ac4aa6.iws.sse'.
+
+ 
+(Filename:  Line: 176)
+
+Failed opening GI file: 'e8/e8265c437596571404d6129a99ac4aa6.rsc.sse'.
+
+ 
+(Filename:  Line: 176)
+
+Failed loading system data for hash: 0xe8265c437596571404d6129a99ac4aa6
+ 
+(Filename:  Line: 1543)
+
+Failed opening GI file: 'e4/e4e077760814902639001247f5505802.iws.sse'.
+
+ 
+(Filename:  Line: 176)
+
+Failed opening GI file: 'e4/e4e077760814902639001247f5505802.rsc.sse'.
+
+ 
+(Filename:  Line: 176)
+
+Failed loading system data for hash: 0xe4e077760814902639001247f5505802
+ 
+(Filename:  Line: 1543)
+
+Failed opening GI file: '82/82cafe8ede7e614859f8dda55c1a4af1.iws.sse'.
+
+ 
+(Filename:  Line: 176)
+
+Failed opening GI file: '82/82cafe8ede7e614859f8dda55c1a4af1.rsc.sse'.
+
+ 
+(Filename:  Line: 176)
+
+Failed loading system data for hash: 0x82cafe8ede7e614859f8dda55c1a4af1
+ 
+(Filename:  Line: 1543)
+
+Failed opening GI file: '0e/0edbfeb39a9ef25645bd65a688651a78.iws.sse'.
+
+ 
+(Filename:  Line: 176)
+
+Failed opening GI file: '0e/0edbfeb39a9ef25645bd65a688651a78.rsc.sse'.
+
+ 
+(Filename:  Line: 176)
+
+Failed loading system data for hash: 0x0edbfeb39a9ef25645bd65a688651a78
+ 
+(Filename:  Line: 1543)
+
+Failed opening GI file: '51/515c9e2a217791a54c8023d02562ca2f.iws.sse'.
+
+ 
+(Filename:  Line: 176)
+
+Failed opening GI file: '51/515c9e2a217791a54c8023d02562ca2f.rsc.sse'.
+
+ 
+(Filename:  Line: 176)
+
+Failed loading system data for hash: 0x515c9e2a217791a54c8023d02562ca2f
+ 
+(Filename:  Line: 1543)
+
+Error adding system: Data not available.
+ 
+(Filename:  Line: 1203)
+
+Error adding system: Data not available.
+ 
+(Filename:  Line: 1203)
+
+Error adding system: Data not available.
+ 
+(Filename:  Line: 1203)
+
+Error adding system: Data not available.
+ 
+(Filename:  Line: 1203)
+
+Error adding system: Data not available.
+ 
+(Filename:  Line: 1203)
+
+Error adding system: Data not available.
+ 
+(Filename:  Line: 1203)
+
+GI output for inputsystem: 542af01533b269681b53d2a9b0d03a7a (0edbfeb39a9ef25645bd65a688651a78) is missing.
+ 
+(Filename:  Line: 1510)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1641.
+Total: 0.512084 ms (FindLiveObjects: 0.087607 ms CreateObjectMapping: 0.028591 ms MarkObjects: 0.379389 ms  DeleteObjects: 0.015762 ms)
+
+Player Found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
